@@ -32,7 +32,7 @@ Right now I'm looking for a mid-point, and I've realized I want to reach my full
 
 I'm open to work and new opportunities. Feel free to reach out to me through the following channels:
 
-- LinkedIn: Juan José Farina (https://www.linkedin.com/in/juanjosefarina)
+- LinkedIn: https://www.linkedin.com/in/juanjosefarina
 - Email: juanjosefarina.jjf@gmail.com
 
 ### ⚡ Fun facts:
