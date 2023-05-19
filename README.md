@@ -6,7 +6,7 @@ I'm 32 years old, I'm from Argentina (currently there, in Rosario city), and I'm
 
 I'm a developer since 2010 (Bachelor in 'Analista de Sistemas de Computación'), but I don't have formal experience because I changed to dance as a profession in 2013. Nevertheless, I think that profession taught me lots about perseverance, discipline, creativity, collaboration, hard-work and commitment.
 
-Right now I'm looking for a mid-point, and I've realized I want to reach my full potential in the IT world, gain a better life style, be able to have a happy family, and who knows ? Maybe even relocate. Whatever it is, I know I have a lot of potential and I want to give my all.
+Right now I'm looking for a mid-point, and I've realized I want to reach my full potential in the IT world, gain a better life quality, be able to have a happy family, and who knows ? Maybe even relocate. Whatever it is, I know I have a lot of potential and I want to give my all.
 
 ### 💻 My tech stack is:
 
