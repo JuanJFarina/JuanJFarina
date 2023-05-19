@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Juan José Farina
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Juan José Farina
 
 ## Full-Stack Developer | Software Engineer
 
