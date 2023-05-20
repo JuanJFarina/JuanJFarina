@@ -26,7 +26,7 @@ Right now I'm looking for a mid-point, and I've realized I want to reach my full
 
 ### 🚀 My recent projects:
 
-- Academia Rosario Ballet (https://www.academiarosarioballet.com.ar): this was my last website before updating my knowledge with new techs and development paradigms. It's built on vanilla JS with Bootstrap, AJAX, PHP and MySQL. It features a wide variety of implementations, from registration, login, dashboard, student's task to complete online, an online library with PDF visualization and a video gallery, both of these with many searching filters.
+- **Academia Rosario Ballet** (https://www.academiarosarioballet.com.ar): this was my last website before updating my knowledge with new techs and development paradigms. It's built on vanilla JS with Bootstrap, AJAX, PHP and MySQL. It features a wide variety of implementations, from registration, login, dashboard, student's task to complete online, an online library with PDF visualization and a video gallery, both of these with many searching filters.
 
 ### 📫 Let's Connect !
 
@@ -43,3 +43,4 @@ I'm open to work and new opportunities. Feel free to reach out to me through the
 - I love videogames since I was 4 years old (playing Atari games), and still do play videogames whenever I can !
 - My favourite franchise is Final Fantasy (yes, I'm an RPG fan).
 - In 2019 I tried the Mensa exam and entered the association.
+- I like watching animes and fantasy-like movies and series.
