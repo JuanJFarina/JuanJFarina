@@ -26,7 +26,9 @@ Right now I'm looking for a mid-point, and I've realized I want to reach my full
 
 ### 🚀 My recent projects:
 
+- **My Portfolio** (https://juanjfarina.github.io/portfolio): this is my portfolio and, besides beeing able to see my other projects and related info, the portfolio itself was a project for showcasing some of my Front-End skills: it's built using Bootstrap and React and has many small effects, animations and hidden easter eggs.
 - **Academia Rosario Ballet** (https://www.academiarosarioballet.com.ar): this was my last website before updating my knowledge with new techs and development paradigms. It's built on vanilla JS with Bootstrap, AJAX, PHP and MySQL. It features a wide variety of implementations, from registration, login, dashboard, student's task to complete online, an online library with PDF visualization and a video gallery, both of these with many searching filters.
+- **Meta Capstone Project** (https://juanjfarin.github.io): this is the final assignment of the Meta Professional Certification, I had to build the homepage and booking table pages of the Little Lemon website alongside every component and style, based on a Figma wireframe and UI kit. The site is build taking into consideration the correct use of semantic HTML5, role ARIAS and inputs validations. It's made with Bootstrap and React, using also Formik and Yup.
 
 ### 📫 Let's Connect !
 
