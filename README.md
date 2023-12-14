@@ -1,12 +1,12 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Juan José Farina
 
-## Full-Stack Developer | Software Engineer
+## Software Engineer with experience in MLOps and Web Development
 
-I'm 32 years old, I'm from Argentina (currently there, in Rosario city), and I'm looking for a career change; my life has always gone from intellectual activities like problem-solving, puzzles, videogames, maths, computers and loving to study and learn, to loving high performance in physical activities, like sports, gymnastics and dancing.
+Hi ! I'm a 33 years old software engineer from Rosario, Argentina. My life has always gone from intellectual activities like problem-solving, puzzles, videogames, maths, computers and loving to study and learn, to loving high performance in physical activities, like sports, gymnastics and dancing.
 
-I'm a developer since 2010 (Bachelor in 'Analista de Sistemas de Computación'), but I don't have formal experience because I changed to dance as a profession in 2013. Nevertheless, I think that profession taught me lots about perseverance, discipline, creativity, collaboration, hard-work and commitment.
+I'm a developer since 2010 (Bachelor in 'Analista de Sistemas de Computación'), but I changed to dance as a profession in 2013. Dance has taught me lots about perseverance, discipline, creativity, collaboration, hard-work and commitment.
 
-Right now I'm looking for a mid-point, and I've realized I want to reach my full potential in the IT world, gain a better life quality, be able to have a happy family, and who knows ? Maybe even relocate. Whatever it is, I know I have a lot of potential and I want to give my all.
+Right now I'm working as a MLOps Engineer at PwC and I'm also leading a Web Development project for an e-learning platform for Academia Rosario Ballet.
 
 ### 💻 My tech stack is:
 
