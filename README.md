@@ -8,6 +8,12 @@ I'm a developer since 2010 (Bachelor in 'Analista de Sistemas de Computación'),
 
 Right now I'm working as a MLOps Engineer at PwC and I'm also leading a few Web Development projects for Academia Rosario Ballet.
 
+### Traversing my Repositories
+My repositories are organized by **topics** for your convenience. There are three categories of topics to search for:
+- **Status**: *released*, *work-in-progress*, *work-at-pause*, *archived*
+- **Nature**: *product-idea*, *academic-project*, *miscellaneous*
+- **Creation year**: *2025*, *2024*, *2023*, etc.
+
 ### 💻 My Tech-Toolkit:
 - **Best Practices**: Heavy use of unit tests, typing, formatters, linters, different design patterns like Strategy, Facade, Factory, Information Expert, etc., and a good balance of legibility and efficience.
 - **Languages**: Mostly Python and JavaScript/TypeScript, as well as some experience in many others.
