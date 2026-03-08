@@ -1,12 +1,10 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Juan José Farina
 
-## Software Engineer with experience in MLOps and Web Development
+## Software Engineer with experience in MLOps, GenAI Engineering and Full-Stack Web Development
 
 I'm from Rosario, Argentina ! My life has always gone from intellectual activities like problem-solving, puzzles, videogames, maths, computers and loving to study and learn, to loving high performance in physical activities, like sports, gymnastics and dancing.
 
-I'm a developer since 2010 (Bachelor in 'Analista de Sistemas de Computación'), but I changed to dance as a profession in 2012. Dance has taught me lots about perseverance, discipline, creativity, collaboration, hard-work and commitment.
-
-Right now I'm working as a MLOps Engineer at PwC and I'm also leading a few Web Development projects for Academia Rosario Ballet.
+I'm a developer since 2010 (Bachelor in 'Analista de Sistemas de Computación'), but I changed to dance as a profession in 2012. Dance has taught me lots about perseverance, discipline, creativity, collaboration, hard-work and commitment. Right now I'm working as a Senior Software Engineer at PwC.
 
 ### Traversing my Repositories
 My repositories are organized by **topics** for your convenience. There are three categories of topics to search for:
@@ -27,10 +25,9 @@ My repositories are organized by **topics** for your convenience. There are thre
 
 ### 🚀 My recent work and projects:
 
-- **PwC**: while I can't show my work at PwC, I've worked since October 2023 in the development of big ML projects from scratch and up to deployment to 5 different environments and 3 different world regions for each. In my first six months I gained two recognition awards for my work. I've been part of multinational teams and I've implemented the highest code quality standards and novel automated systems for Git Stats Reports, Semantic Releases and Breaking Change Detections, among others.
+- **PwC**: full-time employee since 2023, I've received three promotions (currently Senior Associate II), and have been working in ML and GenAI projects, doing MLOps, Backend, agentic frameworks, and leading teams as technical leader, among many other details.
+- **Pymetrica**: codebase observability tool for python applications, my main side project as of now. This tool leverages many useful metrics to understand the health of your system and architecture, helping take design decisions that improve developer experience and productivity, as well as the system's performance.
 - **Git-Report-Stats**: as a way to improve communication and transparency between developers, POs/PMs and other stakeholders, I co-authored a reporting tool that shows the different authors and contributions to a project for any given timelapse or from the latest merge. The tool has been published to PyPI and is used in our CI/CDs.
-- **Hand-Mouse**: as a fun side-project, I decided to make a simple tracking app that allows the use of hand-gestures as a mouse, and also has voice-recognition to either stop or start capturing the gestures. It's really fun and useful !
-- **E-Learning Platform for ARB**: currently leading a full development team with 4 front-end developers, 4 back-end developers and 3 UX/UI designers.
 
 ### 📫 Let's Connect !
 
@@ -43,7 +40,7 @@ I'm always open for new and challenging opportunities, specially if it involves 
 
 - I started my career in computer science in 2010, but prior to that I had been dancing since 2008.
 - From 2012 to 2022 I've worked as dancer and teacher of hip-hop and also classical ballet.
-- In 2020 I opened up a dance school (it's still open and working !).
+- In 2020 I opened up a dance school that ran for 6 years.
 - I love videogames since I was 4 years old (playing Atari games), and still do play videogames whenever I can !
 - My favourite videogame franchise is Final Fantasy (yes, I'm an RPG fan).
 - In 2019 I tried the Mensa exam and passed (it's a great community and we gather every week).
